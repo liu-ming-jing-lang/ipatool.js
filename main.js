@@ -8,19 +8,18 @@ await ipaTool.downipa({
     path: './app',
 
     // 微信：414478124//你想要下载的应用程序的ID
-    APPID: '1215494034',
+    APPID: '8617717692001',
 
     //微信8.0.48:864225682 //版本id,下载旧版本需要填写,留空默认下新版本
     appVerId: '',
 
     // 你的 Apple ID 邮箱
-    APPLE_ID: 'aoole@gmail.com',
+    APPLE_ID: 'liu-ming-jing@qq.com',
 
     // 你的 Apple ID 密码
-    PASSWORD: 'Aa112233',
+    PASSWORD: '123456789j.',
 
-    //两步验证代码，如果操作登录，手机弹出两步验证码，则填写到此处，第二次使用前请删除这里
-    CODE: ''
-
+   
 });
+
 
